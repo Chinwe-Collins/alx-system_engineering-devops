@@ -1,1 +1,2 @@
-0x00. Shell, basics
+0x00 shell basics
+0x00.c Hello, World
